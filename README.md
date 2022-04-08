@@ -1,2 +1,2 @@
 # hw-probe-pyqt6-gui
-PyQt6 gui for Hardware Probe 
+PyQt6 GUI for Hardware Probe
